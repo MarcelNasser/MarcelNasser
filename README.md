@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcelNasser
-- 👀 I’m interested in api, middleware and data storage
+- 👀 I’m interested in infrastructure, backends, middlewares
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on backends development and deployment
+- 💞️ I’m looking to collaborate developing scalable applications and AI projects
 - 📫 Reach me by e-mail >> marcel/dot/nasser/at/live/dot/fr
 
 <!---
